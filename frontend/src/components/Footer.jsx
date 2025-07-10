@@ -27,7 +27,7 @@ const Footer = () => {
                 <p className='text-xl font-medium mb-5'>GET IN TOUCH</p>
                 <ul className='flex flex-col gap-2 text-gray-600'>
                     <li>+1-234-567-8900</li>
-                    <li>sahil@gmail.com</li>
+                    <li>Curely@gmail.com</li>
                 </ul>
             </div>
         </div>
@@ -35,7 +35,7 @@ const Footer = () => {
             <div>
                 
                 <hr />
-                <p className='py-5 text-sm text-center'>Copyright 2024 @ Greatstack.dev - All Right Reserved.</p>
+                <p className='py-5 text-sm text-center'>Copyright 2024 @ Curely.dev - All Right Reserved.</p>
             </div>
         
     </div>
